@@ -59,5 +59,48 @@ SQL QUERIES
 # Experiment 13
 SQL QUERIES 
 ![13](https://user-images.githubusercontent.com/113236628/193335353-fa475f63-2631-46d6-8048-43af28c91137.png)
+# Experiment 14
+SQL QUERIES 
+![14](https://user-images.githubusercontent.com/113236628/193336700-47a8b5bb-7217-4e65-9f67-ca70226bd160.png)
+# Experiment 15
+SQL QUERIES 
+![15](https://user-images.githubusercontent.com/113236628/193337035-7b8cfc31-eee6-4da7-8452-4a1a6aab9c18.png)
+# Experiment 16
+SQL QUERIES 
+![16](https://user-images.githubusercontent.com/113236628/193338030-a9d65d95-feb2-48f9-8ed2-96e9dd3b6f09.png)
+![16 2](https://user-images.githubusercontent.com/113236628/193338285-f1f6b67b-b700-4a41-9d36-cae6a7751ab5.png)
+# Experiment 17
+SQL QUERIES 
+![17](https://user-images.githubusercontent.com/113236628/193338464-07dfa5e3-abc6-4953-8cb9-96f74582586f.png)
+# Experiment 18
+SQL QUERIES 
+![18](https://user-images.githubusercontent.com/113236628/193338604-975f4b61-e079-43c3-8755-90b81b2d3318.png)
+# Experiment 19
+SQL QUERIES 
+![19](https://user-images.githubusercontent.com/113236628/193338765-7c53f846-e2c4-41be-8c15-d04d6308b420.png)
+# Experiment 20
+SQL QUERIES 
+![20](https://user-images.githubusercontent.com/113236628/193338924-b01245f1-bb32-42c3-8a7c-9ecb44f377aa.png)
+# Experiment 21
+SQL QUERIES 
+![21](https://user-images.githubusercontent.com/113236628/193339066-0f80592e-48d8-439a-871b-161f00700410.png)
+# Experiment 22
+SQL QUERIES 
+![22](https://user-images.githubusercontent.com/113236628/193339144-46304d79-e631-42c3-a4e3-92819d494af8.png)
+# Experiment 23
+SQL QUERIES 
+![23](https://user-images.githubusercontent.com/113236628/193339262-6d0603eb-702c-47aa-94b5-b498bb70b6e5.png)
+# Experiment 24
+SQL QUERIES 
+![24](https://user-images.githubusercontent.com/113236628/193339374-05546b3e-f9b3-48d9-bc1f-c4bebf8c76c6.png)
+![24 1](https://user-images.githubusercontent.com/113236628/193339380-966fd4f2-de74-4fdf-8eb3-9fda250c2466.png)
+# Experiment 25
+SQL QUERIES 
+![25](https://user-images.githubusercontent.com/113236628/193339479-f58ea1b8-b882-469f-ae79-94044669b645.png)
+![25 1](https://user-images.githubusercontent.com/113236628/193339486-7a6ed11d-64a4-4b9d-bcd6-654a8d73d084.png)
+![25 2](https://user-images.githubusercontent.com/113236628/193339492-433c5f3d-3108-44bb-8bf1-ddf379db6b91.png)
+![25 3](https://user-images.githubusercontent.com/113236628/193339498-5831ee7f-ef33-4656-9c6f-fe59ce8a9138.png)
+
+
 
 
