@@ -13,3 +13,6 @@ SQL QUERIES
 ![Exp 2 2](https://user-images.githubusercontent.com/113236628/193330796-85f63661-1f08-44af-9f42-43bfbec38eab.png)
 # Experiment 3
 SQL QUERIES 
+![191308557-8d3a82af-c69b-40ab-bc72-ec05def75a46](https://user-images.githubusercontent.com/113236628/193332084-6d7493ef-5119-4b85-9661-463df06aaace.png)
+# Experiment 4
+SQL QUERIES 
