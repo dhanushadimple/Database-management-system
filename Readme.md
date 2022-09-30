@@ -13,7 +13,8 @@ SQL QUERIES
 ![Exp 2 2](https://user-images.githubusercontent.com/113236628/193330796-85f63661-1f08-44af-9f42-43bfbec38eab.png)
 # Experiment 3
 SQL QUERIES 
-![191308557-8d3a82af-c69b-40ab-bc72-ec05def75a46](https://user-images.githubusercontent.com/113236628/193332084-6d7493ef-5119-4b85-9661-463df06aaace.png)
+![3](https://user-images.githubusercontent.com/113236628/193339877-450e5b64-8c1a-4c5b-98f3-92d8f4f7ac61.png)
+
 # Experiment 4
 SQL QUERIES 
 ![4](https://user-images.githubusercontent.com/113236628/193334081-4f0ecabd-d651-4981-8ea9-14c90a63a5f9.png)
@@ -45,7 +46,8 @@ SQL QUERIES
 SQL QUERIES 
 ![9](https://user-images.githubusercontent.com/113236628/193334800-1110e934-c515-44fa-a8b7-d15d9cebd3f6.png)
 ![9 1](https://user-images.githubusercontent.com/113236628/193334806-89fdee06-1cb4-446e-9b83-0455485108e2.png)
-![191541114-5d93264d-47c6-44f1-a3d9-ad617414c912](https://user-images.githubusercontent.com/113236628/193334811-73cbebdb-7288-425e-ae53-95d948491c14.png)
+![9 2](https://user-images.githubusercontent.com/113236628/193340142-df202efa-e061-4731-ab88-bd51d1e32e66.png)
+
 # Experiment 10
 SQL QUERIES 
 ![10](https://user-images.githubusercontent.com/113236628/193334979-3175c8ae-975f-4577-b02a-27ef220ec9de.png)
