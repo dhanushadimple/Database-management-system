@@ -1,6 +1,3 @@
-![Exp 2](https://user-images.githubusercontent.com/113236628/193329785-ddfa53bc-cd4e-49fc-af9a-830e1ebde1fa.png)
-![Exp 2 1](https://user-images.githubusercontent.com/113236628/193329791-08519959-6b77-4791-8415-3843400d737a.png)
-![Exp 2 2](https://user-images.githubusercontent.com/113236628/193329793-b19f4c8d-96b3-458c-8e14-63991c340023.png)
 
 # Experiment 1 
 [sql queries]
