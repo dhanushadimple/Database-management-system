@@ -1,0 +1,12 @@
+![Exp 1](https://user-images.githubusercontent.com/113236628/193302530-d779adb8-6e77-4975-b7a2-1081304242f3.png)
+![Exp 1 1](https://user-images.githubusercontent.com/113236628/193302829-bae6efaf-5e23-4a1d-b0d6-e8c58b8c8b22.png)
+![Exp 2](https://user-images.githubusercontent.com/113236628/193303191-448e878e-7b8f-4d29-adfa-d52f0cf82e84.png)
+![Exp 2 1](https://user-images.githubusercontent.com/113236628/193303198-3b350554-62bb-464d-808d-536ebbd5ff2c.png)
+![Exp 3](https://user-images.githubusercontent.com/113236628/193304089-fbb5981d-85cb-40d8-8209-2dfff318adb1.png)
+![Exp 4](https://user-images.githubusercontent.com/113236628/193304134-b847e309-c26d-42c3-82aa-918efb8b1e86.png)
+![Exp 4 1](https://user-images.githubusercontent.com/113236628/193304182-3c199ae9-f312-41b7-aecd-2c5504c655bb.png)
+![Exp 4 2](https://user-images.githubusercontent.com/113236628/193304230-8e0f3d04-6817-4f7f-bc15-e2c9aafb857e.png)
+![Exp 4 3](https://user-images.githubusercontent.com/113236628/193304281-b6b10eee-74a4-4dd0-a069-5a6339c5b928.png)
+![Exp 4 4](https://user-images.githubusercontent.com/113236628/193304291-f722635c-78b4-4df0-993d-4c576f73150d.png)
+![Exp 4 5](https://user-images.githubusercontent.com/113236628/193304312-409fdf36-90e1-4a8a-8b80-8b8a6251c5a1.png)
+# Database-management-system
